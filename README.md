@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.imgur.com/o558Qnq.png" align="center">
   <br>
-  <strong><i>A feature-rich Modmail bot for Discord.</i></strong>
+  <strong><i>A feature-rich Modmail bot for Blocky Arcade Studio.</i></strong>
   <br>
   <br>
 
@@ -11,15 +11,15 @@
 
   <br>
   
-   <a href="https://github.com/kyb3r/modmail/">
+   <a href="https://github.com/AashirPlayz/modmail/">
    <img src="https://api.modmail.dev/badges/instances.svg" alt="Bot instances">
   </a>
 
-  <a href="https://discord.gg/j5e9p8w">
+  <a href="https://discord.gg/RSr2V4K">
     <img src="https://img.shields.io/discord/515071617815019520.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
   </a>
 
-  <a href="https://patreon.com/kyber">
+  <a href="https://patreon.com/BlockyArcade">
     <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge&logo=Patreon" alt="Python 3.7">
   </a>
 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/kyb3r/modmail/blob/master/LICENSE">
+  <a href="https://github.com/AashirPlayz/modmail/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT License">
   </a>
 
@@ -44,7 +44,7 @@
 
 Modmail is similar to Reddit's Modmail, both in functionality and purpose. It serves as a shared inbox for server staff to communicate with their users in a seamless way.
 
-This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Patreon](https://www.patreon.com/kyber)**, cool benefits included! 
+This bot is free for everyone and always will be. If you like this project and would like to show your appreciation, you can support us on **[Patreon](https://www.patreon.com/BlockyArcade)**, cool benefits included! 
 
 ## How does it work?
 

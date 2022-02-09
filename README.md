@@ -11,8 +11,8 @@
 
   <br>
   
-    <a href="https://github.com/kyb3r/modmail/">
-    <img src="https://api.modmail.dev/badges/instances.svg" alt="Bot instances">
+   <a href="https://github.com/kyb3r/modmail/">
+   <img src="https://api.modmail.dev/badges/instances.svg" alt="Bot instances">
   </a>
 
   <a href="https://discord.gg/j5e9p8w">
